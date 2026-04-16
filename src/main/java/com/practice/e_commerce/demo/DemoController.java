@@ -1,4 +1,4 @@
-package com.practice.e_commerce.security.demo;
+package com.practice.e_commerce.demo;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.practice.e_commerce.security;
+package com.practice.e_commerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
